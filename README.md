@@ -4,7 +4,7 @@ A programming lanugage for Sentinel Corporation, Currently has core and corec
 
 ## Installation
 
-Download file core.exe and put it into C:\Core
+Download file core.exe and corec.exe and put it into C:\Core
 
 Then add C:\Core into the env variables and restart
 
@@ -32,7 +32,7 @@ type: ```core yourfile.co``` (if you have created a file) into the cmd
 argv*std::string -> print out string
 
 ##### Syntax of msg!:
-```.msg("Hello World!")```
+```.msg!("Hello World!")```
 ##### Properties:
 argv -> print out variable
 
