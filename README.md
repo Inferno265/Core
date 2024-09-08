@@ -1,6 +1,6 @@
-# Core
+# Core Pack
 
-A programming lanugage for Sentinel Corporation
+A programming lanugage for Sentinel Corporation, Currently has core and corec
 
 ## Installation
 
