@@ -1,16 +1,14 @@
-Core Framework Documentation
-Overview
+# Core Framework Documentation
+## Overview
 Core is a Java framework designed to make game development easier for developers. It provides essential functions to initialize game assets and load game information into memory, allowing developers to focus on building game logic and design rather than boilerplate code.
 
-Installation
+## Installation
 To install the Core framework, simply add the Core package to your Java project and import the required library.
 
-Step-by-Step Guide
+## Step-by-Step Guide
 Add Core Package: Ensure you have the Core framework package available in your project.
 Import Core: In your Java code, add the following import statement:
-java
-Skopiuj kod
-import javax.game.*;
+```import javax.game.*;```
 Functions
 1. init() -> boolean
 Initializes the framework and checks for the presence of essential game files.
