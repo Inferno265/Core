@@ -20,7 +20,8 @@ Return Value:
 true: Initialization is successful, and the game can proceed.
 false: Initialization failed due to the absence of the gameinfo.gi file.
 Example:
-```if (Core.init()) {
+```
+if (Core.init()) {
      ...
 }
 ```
